@@ -1,0 +1,9 @@
+Strings, Integers, and Floats are scalar data types, they can be put on a scale.
+
+an array is a collection that hold multiple peices of data under a single name.
+ex.. the_beatles = [ "John Lennon", "Paul McCartney", "Ringo Starr", "George Harrison"]
+
+the pieces inside of the arrray are called elements. Arrays provide a number that identifies each element called an index. The index for the element "Ringo Starr" above is 2.
+
+hash is a collection data type that holds multiple pieces of data under a collected name whose members can be read and updated by using a key instead of an index
+

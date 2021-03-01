@@ -1,0 +1,4 @@
+internal stle of css is the placed in the head and be declared in a <style>..</style> tag. Any css done in this tag will change only in this document. 
+
+external stylesheets go across all the documents in the file. it will be linked with a <link rel="" href=""> tag
+

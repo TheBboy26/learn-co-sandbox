@@ -1,0 +1,25 @@
+ordered list, unordered list and definition list
+
+when we want to present a list in a clear readable format we turn the html into a  "ul" tag. this will make the list <li> into a unordered list 
+
+<ol> will make a more readable list. this will make a ordered list. 
+
+<dl> definition list. this will define certain lines of code. 
+    
+    
+<img> allows you to put images. there is no need for a close tag. 
+it will handle alot of attributes. the "alt" will provide descriptive text line."title" will give the user more info of the image.the "width" and "height" will give the attributes of defining the dementions. 
+
+links could be placed inside the <a> attribute and be placed in a "href" to display the link. "alt" allows it to become a click link with text. you can also have a image.
+
+<a href="http://example.com/">
+  <img src="myimage.jpg" alt="Alternative Text">
+</a>
+
+<a href="mailto:webmaster@example.com">Send an email</a>
+
+
+when you want to jump down to the same site but a different section
+
+<p id="tips">Useful Tips Section</p>
+<a href="#tips">Jump to the Useful Tips Section</a>

@@ -1,0 +1,42 @@
+<p> </p> paragraph tags
+
+attribute tags <a> </a> can be used for links by the href
+ex. <a href="https://www.youtube.com"> youtube </a>
+    attributes start to get good when we do CSS
+    
+Nesting and element. 
+  we frequently nest elements withing each other. 
+ex. <p>This <a href="http://www.google.com">link</a> will be a part of a separate paragraph.</p>
+
+<!doctype html> 
+<html>
+  <head>
+  
+  <!-- comments -->
+  
+  </head>
+  
+  <body>
+
+  </body>
+</html>
+
+<h1> </h1>
+...
+<h6> </h6>
+
+<img src="URL_TO_IMAGE" alt="Picture of a Dog"></img>
+
+<ul>  unordered list
+    <li>Coffee</li>
+    <li>Vinyl Records</li>
+    <li>Pickling</li>
+</ul>
+
+<ol> ordered list 
+    <li>DiFara Pizza</li>
+    <li>Lucali's</li>
+    <li>Sal and Carmine's</li>
+    <li>Juliana's</li>
+    <li>Joe's</li>
+</ol>
